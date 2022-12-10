@@ -9,6 +9,8 @@ This section is organized by Resources I am following
     - [ 📔Notes](effectivego/readme.md)  
 - [ ] [ 🔗 GoByExample](https://gobyexample.com/)   
     - [ 📔Notes](gobyexample/readme.md)  
+- [ ] [  🔗 Google Cloud Skill for Go ](https://www.cloudskillsboost.google/quests/129) -  Google cloud lab => Go learning path
+	- [ Notes](googlecloudskill/readme.md) 	
 
 # How you can use
 
@@ -17,3 +19,6 @@ Checkout the v1.0 tag of this repository
 git clone git@github.com/pradyumnac/learngo@v1.0
 ```
 and follow along
+
+# Reference  
+https://go.dev/learn/  
