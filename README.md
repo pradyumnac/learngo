@@ -3,11 +3,11 @@ My personal journey in learning Golang
 
 # Resources
 This section is organized by Resources I am following
-- [ ] [🔗TourOfGo](https://go.dev/tour/)   
-      [📔Notes](tourofgo/readme.md)  
-- [ ] [🔗EffectiveGo](https://go.dev/doc/effective_go)   
+- [ ] [🔗 TourOfGo](https://go.dev/tour/)   
+      [📔 Notes](tourofgo/readme.md)  
+- [ ] [🔗 EffectiveGo](https://go.dev/doc/effective_go)   
       [📔Notes](effectivego/readme.md)  
-- [ ] [🔗GoByExample](https://gobyexample.com/)   
+- [ ] [🔗 GoByExample](https://gobyexample.com/)   
       [📔Notes](gobyexample/readme.md)  
 
 # How you can use
